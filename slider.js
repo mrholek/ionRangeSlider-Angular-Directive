@@ -1,10 +1,10 @@
 /**
  * Created by Abdullah on 9/19/14.
  *
- * Modified and enhanced by Juergen Wahlmann on 3/5/15
+ * Modified by Łukasz Holeczek
  */
 
-var app = angular.module('ionSlider',['ngRoute']);
+var app = angular.module('ionSlider',[]);
 
 
 app.directive('ionslider',function($timeout){
